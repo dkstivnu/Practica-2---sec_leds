@@ -1,0 +1,8 @@
+Warning[205] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 6 : Found directive in column 1. (LIST)
+Message[302] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 57 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\WILST\MPLABXPROJECTS\SEC_LEDS.X\MAIN.ASM 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.
